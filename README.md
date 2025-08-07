@@ -4,7 +4,7 @@
 
 ## Overview
 
-GemmEye is a Python application that leverages Google's Gemma-3n vision-language model to analyze cadastral maps and determine whether specific map sections are connected or disconnected. This tool is designed for cadastral surveyors, urban planners, and GIS professionals who need to quickly assess land parcel connectivity.
+GemmEye is a Python application that leverages Google's Gemma-3n vision-language model to analyze cadastral maps and determine whether specific map sections are connected or disconnected. This tool is designed for quickly assessing land parcel connectivity.
 
 ## Features
 
